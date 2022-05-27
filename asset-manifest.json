@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://bigdevcfo.github.io/csb-73qnq8/static/js/main.dacc6ef5.chunk.js",
+    "main.js.map": "https://bigdevcfo.github.io/csb-73qnq8/static/js/main.dacc6ef5.chunk.js.map",
+    "runtime-main.js": "https://bigdevcfo.github.io/csb-73qnq8/static/js/runtime-main.8a7ce026.js",
+    "runtime-main.js.map": "https://bigdevcfo.github.io/csb-73qnq8/static/js/runtime-main.8a7ce026.js.map",
+    "static/js/2.32f93bc9.chunk.js": "https://bigdevcfo.github.io/csb-73qnq8/static/js/2.32f93bc9.chunk.js",
+    "static/js/2.32f93bc9.chunk.js.map": "https://bigdevcfo.github.io/csb-73qnq8/static/js/2.32f93bc9.chunk.js.map",
+    "index.html": "https://bigdevcfo.github.io/csb-73qnq8/index.html",
+    "precache-manifest.1ece65f088ab4950c8ec09281fd7b149.js": "https://bigdevcfo.github.io/csb-73qnq8/precache-manifest.1ece65f088ab4950c8ec09281fd7b149.js",
+    "service-worker.js": "https://bigdevcfo.github.io/csb-73qnq8/service-worker.js",
+    "static/js/2.32f93bc9.chunk.js.LICENSE.txt": "https://bigdevcfo.github.io/csb-73qnq8/static/js/2.32f93bc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7ce026.js",
+    "static/js/2.32f93bc9.chunk.js",
+    "static/js/main.dacc6ef5.chunk.js"
+  ]
+}
